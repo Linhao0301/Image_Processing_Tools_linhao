@@ -34,7 +34,7 @@ cd ComfyUI/custom_nodes
 
 2. 克隆仓库：
 ```bash
-git clone https://github.com/your-username/Image_Processing_Tools_linhao.git
+git clone https://github.com/Linhao0301/Image_Processing_Tools_linhao.git
 ```
 
 3. 安装依赖：
